@@ -23,6 +23,16 @@ Currently:
 
 *Every green square = commits, PRs, and deployments (GitHub Actions + Vercel). My current streak and longest streak are shown live!*
 
+## 📊 Amazing GitHub Stats & Visual Graphs
+
+[![Egnuma Gelana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IdentityG&show_icons=true&theme=radical&hide_border=true)](https://github-readme-stats.vercel.app)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IdentityG&layout=compact&theme=radical&hide_border=true)](https://github-readme-stats.vercel.app)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IdentityG&theme=radical&hide_border=true&area=true&color=FF5E5E)](https://github-readme-activity-graph.vercel.app)
+
+*Beautiful live visuals: total stats overview + language usage bars + stunning area-filled activity graph showing every commit and deployment peak!*
+
 ---
 
 ## 💼 Work Experience
